@@ -1,0 +1,105 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alpesh Physiotherapy Care | Ahmedabad</title>
+  <meta name="description" content="Professional Physiotherapy Services by Alpesh Bhai Solanki in Ahmedabad. Serving Maninagar, Thaltej and nearby areas." />
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-800">  <!-- Header -->  <header class="bg-blue-600 text-white py-6 shadow-lg">
+    <div class="container mx-auto px-4 text-center">
+      <h1 class="text-3xl md:text-4xl font-bold">Alpesh Physiotherapy Care</h1>
+      <p class="mt-2 text-lg">Trusted Physiotherapy Services in Ahmedabad</p>
+    </div>
+  </header>  <!-- Hero Section -->  <section class="bg-white py-12">
+    <div class="container mx-auto px-4 grid md:grid-cols-2 gap-8 items-center">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold mb-4">10+ Years of Experience in Healing</h2>
+        <p class="mb-4">We provide professional and caring physiotherapy treatment to help you recover faster and live pain-free.</p>
+        <p class="mb-6">Serving areas: <strong>Maninagar, Thaltej & Nearby Locations</strong></p>
+        <a href="#contact" class="bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-700">Contact Now</a>
+      </div>
+      <div class="flex justify-center">
+        <img src="https://images.unsplash.com/photo-1603398938378-e54eab446dde" alt="Physiotherapy" class="rounded-2xl shadow-lg w-full max-w-md">
+      </div>
+    </div>
+  </section>  <!-- About Section -->  <section class="bg-gray-100 py-12" id="about">
+    <div class="container mx-auto px-4">
+      <h2 class="text-2xl md:text-3xl font-bold text-center mb-8">About Us</h2>
+      <div class="max-w-3xl mx-auto text-center">
+        <p class="mb-4"><strong>Alpesh Bhai Solanki</strong> is a certified physiotherapist with more than 10 years of experience in helping patients recover from pain, injuries, and physical problems.</p>
+        <p class="mb-4">With dedication and care, we focus on providing personalized treatment for every patient.</p>
+        <p><strong>Smita Solanki</strong> supports and manages patient care and coordination.</p>
+      </div>
+    </div>
+  </section>  <!-- Services Section -->  <section class="bg-white py-12" id="services">
+    <div class="container mx-auto px-4">
+      <h2 class="text-2xl md:text-3xl font-bold text-center mb-8">Our Services</h2>
+      <div class="grid md:grid-cols-3 gap-6"><div class="bg-gray-50 p-6 rounded-xl shadow text-center">
+      <h3 class="text-xl font-semibold mb-2">Back & Neck Pain</h3>
+      <p>Treatment for chronic and acute back and neck pain.</p>
+    </div>
+
+    <div class="bg-gray-50 p-6 rounded-xl shadow text-center">
+      <h3 class="text-xl font-semibold mb-2">Sports Injury</h3>
+      <p>Rehabilitation and recovery for sports-related injuries.</p>
+    </div>
+
+    <div class="bg-gray-50 p-6 rounded-xl shadow text-center">
+      <h3 class="text-xl font-semibold mb-2">Post-Surgery Rehab</h3>
+      <p>Physiotherapy after surgery for fast and safe recovery.</p>
+    </div>
+
+    <div class="bg-gray-50 p-6 rounded-xl shadow text-center">
+      <h3 class="text-xl font-semibold mb-2">Joint Pain</h3>
+      <p>Knee, shoulder, and joint pain management.</p>
+    </div>
+
+    <div class="bg-gray-50 p-6 rounded-xl shadow text-center">
+      <h3 class="text-xl font-semibold mb-2">Home Visit</h3>
+      <p>Physiotherapy treatment at your home.</p>
+    </div>
+
+    <div class="bg-gray-50 p-6 rounded-xl shadow text-center">
+      <h3 class="text-xl font-semibold mb-2">Posture Correction</h3>
+      <p>Improve posture and prevent long-term problems.</p>
+    </div>
+
+  </div>
+</div>
+
+  </section>  <!-- Areas Section -->  <section class="bg-gray-100 py-12">
+    <div class="container mx-auto px-4 text-center">
+      <h2 class="text-2xl md:text-3xl font-bold mb-6">Service Areas</h2>
+      <p class="text-lg">We provide services in and around:</p>
+      <div class="mt-4 flex flex-wrap justify-center gap-4">
+        <span class="bg-blue-100 text-blue-700 px-4 py-2 rounded-full">Maninagar</span>
+        <span class="bg-blue-100 text-blue-700 px-4 py-2 rounded-full">Thaltej</span>
+        <span class="bg-blue-100 text-blue-700 px-4 py-2 rounded-full">Navrangpura</span>
+        <span class="bg-blue-100 text-blue-700 px-4 py-2 rounded-full">Paldi</span>
+        <span class="bg-blue-100 text-blue-700 px-4 py-2 rounded-full">Satellite</span>
+      </div>
+    </div>
+  </section>  <!-- Contact Section -->  <section class="bg-white py-12" id="contact">
+    <div class="container mx-auto px-4">
+      <h2 class="text-2xl md:text-3xl font-bold text-center mb-8">Contact Us</h2><div class="max-w-2xl mx-auto bg-gray-50 p-8 rounded-2xl shadow">
+    <div class="space-y-4 text-center">
+      <p class="text-lg"><strong>Physiotherapist:</strong> Alpesh Bhai Solanki</p>
+      <p class="text-lg"><strong>Coordinator:</strong> Smita Solanki</p>
+      <p class="text-lg"><strong>Phone:</strong> <a href="tel:9328408283" class="text-blue-600 font-semibold">9328408283</a></p>
+      <p class="text-lg"><strong>Location:</strong> Ahmedabad, Gujarat</p>
+    </div>
+
+    <div class="mt-6 text-center">
+      <a href="https://wa.me/919328408283" target="_blank" class="bg-green-500 text-white px-6 py-3 rounded-lg shadow hover:bg-green-600">Chat on WhatsApp</a>
+    </div>
+  </div>
+</div>
+
+  </section>  <!-- Footer -->  <footer class="bg-blue-600 text-white py-6 mt-12">
+    <div class="container mx-auto px-4 text-center">
+      <p>&copy; 2026 Alpesh Physiotherapy Care. All Rights Reserved.</p>
+      <p class="mt-2">Designed with care for better health.</p>
+    </div>
+  </footer></body>
+</html>index.html
